@@ -1,5 +1,6 @@
 <?php
 
+//test
 use Bossa\PhpSpec\Expect\Subject;
 use Bossa\PhpSpec\Expect\Wrapper;
 use PhpSpec\Exception\ExceptionFactory;
